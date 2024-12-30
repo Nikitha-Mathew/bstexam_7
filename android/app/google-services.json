@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936563371123",
+    "project_id": "bstexam2",
+    "storage_bucket": "bstexam2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936563371123:android:ae3b9d8964fe571af14e06",
+        "android_client_info": {
+          "package_name": "com.example.bstexam_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt4jwwxugAKI_JUdBcTXtXov7mqiDLQQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
